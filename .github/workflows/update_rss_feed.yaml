@@ -1,0 +1,41 @@
+name: Update RSS feed
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # every hour
+  workflow_dispatch:
+
+jobs:
+  combine:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Merge multiple feeds
+        uses: kotaoue/combine-rss-feeds@v1
+        with:
+          feeds: |
+            https://sgolev.github.io/feeds/all.rss.xml
+            https://www.eferro.net/feeds/posts/default
+            https://benhoyt.com/writings/rss.xml
+            https://hugovk.dev/index.xml
+            https://alldjango.com/rss.xml
+            https://timmyomahony.com/feed.rss
+            https://simpleisbetterthancomplex.com/feed.xml
+            https://lukeplant.me.uk/blog/atom/index.xml
+            https://blog.szymonmiks.pl/index.xml
+            https://daniel.feldroy.com/feeds/atom.xml
+            https://hakibenita.com/feeds/tag/django.atom.xml
+            https://www.pmareke.com/index.xml
+            https://pycoders.com/feed/xx28Ny7q
+            https://www.hacksoft.io/blog/rss
+          output_file: public/rss.xml
+          feed_title: "My Tech Blog Aggregator"
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/rss.xml
+          git diff --cached --quiet || git commit -m "chore: update combined RSS feed"
+          git push

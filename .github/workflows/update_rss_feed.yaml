@@ -29,6 +29,7 @@ jobs:
             https://www.pmareke.com/index.xml
             https://pycoders.com/feed/xx28Ny7q
             https://www.hacksoft.io/blog/rss
+            https://www.better-simple.com/atom.xml
           output_file: public/rss.xml
           feed_title: "My Tech Blog Aggregator"
 

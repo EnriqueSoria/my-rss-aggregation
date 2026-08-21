@@ -33,6 +33,7 @@ jobs:
             https://blog.florianherrengt.com/rss.xml
           output_file: public/rss.xml
           feed_title: "My Tech Blog Aggregator"
+          limit: 30
 
       - name: Commit updated feed
         run: |

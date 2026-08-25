@@ -31,6 +31,7 @@ jobs:
             https://www.hacksoft.io/blog/rss
             https://www.better-simple.com/atom.xml
             https://blog.florianherrengt.com/rss.xml
+            https://blog.pecar.me/feed.xml
           output_file: public/rss.xml
           feed_title: "My Tech Blog Aggregator"
           limit: 30

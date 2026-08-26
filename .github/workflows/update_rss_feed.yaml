@@ -33,7 +33,7 @@ jobs:
             https://blog.florianherrengt.com/rss.xml
             https://blog.pecar.me/feed.xml
           output_file: public/rss.xml
-          feed_title: "My Tech Blog Aggregator"
+          feed_title: "Enrique Soria's Tech Blog Aggregator"
           limit: 30
 
       - name: Commit updated feed

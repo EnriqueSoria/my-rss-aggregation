@@ -11,6 +11,12 @@
       <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;El viernes 4 de septiembre suben los precios de &lt;em&gt;Menos software, más impacto&lt;/em&gt; en Amazon: el Kindle pasa de 9,99 € a 12,99 € y la tapa blanda de 19,99 € a 24,99 €.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Lo aviso ahora porque sé que hay gente que lo tiene en la lista de &#34;algún día lo compro&#34;. Si es tu caso, hasta el viernes sigue como está. Y si me lees el sábado, tampoco pasa nada: el libro no se va a ningún sitio.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Por qué lo subo, por si te interesa el detalle. Puse el precio de salida a ojo, sin tener ni idea de cómo iba a funcionar un libro técnico en castellano autopublicado. Tres meses y cerca de 400 copias después sé bastante más. Y Amazon ha subido el coste de impresión tres veces desde junio, así que cada copia en papel me deja hoy bastante menos que el día del lanzamiento. Con el precio nuevo el libro se parece más a lo que cuesta cualquier otro libro técnico de este tamaño, y me paga el tiempo que le sigo echando: los recursos de la web, las correcciones que me van llegando.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Hay algo que me importa más que el número. Lo pongo mirando lo que se cobra en el sector aquí, y eso no vale para todo el mundo: hay países y hay momentos de carrera en los que 25 € significan otra cosa completamente distinta. Si es tu caso y quieres leer el libro, escríbeme y buscamos cómo. Lo que quiero es que acabe en manos de quien le vaya a servir, y el precio no debería ser lo que lo impida. No hace falta que me cuentes nada.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Esa misma semana hay otro cambio: el Kindle sale de Kindle Unlimited. Si lo tenías apuntado para leerlo con la suscripción, estos días son los últimos.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Si lo quieres antes del viernes:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kindle: &lt;a href=&#34;https://www.amazon.es/dp/B0H47SS5WQ&#34;&gt;https://www.amazon.es/dp/B0H47SS5WQ&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Tapa blanda: &lt;a href=&#34;https://www.amazon.es/dp/8409872021&#34;&gt;https://www.amazon.es/dp/8409872021&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;p&gt;Y gracias a toda la gente que lo ha leído y se ha tomado el rato de escribirme para contarme qué le ha servido y qué no. Esa parte no me la esperaba y es la que más me está gustando de todo esto.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;— Eduardo Ferro Aldama&lt;br /&gt;&#xA;&lt;em&gt;Menos software, más impacto&lt;/em&gt;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
+      <title>[www.better-simple.com] Nifty Django Feature: Use Index for Custom Migration Operations</title>
+      <link>https://www.better-simple.com/django/2026/09/02/nifty-feature-use-index-for-custom-migrations/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Part of the Nifty Django features series: You can hack Django&#39;s Index class to define custom migration operations on your model.</description>
+    </item>
+    <item>
       <title>[pycoders.com] Issue #750: State of Django, PSF Elections, Python 3.15, and More (2026-09-01)</title>
       <link>https://pycoders.com/issues/750</link>
       <pubDate>Tue, 01 Sep 2026 19:30:00 +0000</pubDate>
@@ -147,12 +153,6 @@
       <link>https://daniel.feldroy.com/posts/2026-07-writing-about-electrification</link>
       <pubDate>Mon, 20 Jul 2026 12:50:40 +0000</pubDate>
       <description>For years I&#39;ve been thinking about electrification, now I&#39;m going to write about it.</description>
-    </item>
-    <item>
-      <title>[www.better-simple.com] When is it worth paying for a mentor?</title>
-      <link>https://www.better-simple.com/career/2026/07/16/when-is-it-worth-paying-for-a-mentor/</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Not sure if it&#39;s the right time to hire a mentor? A few honest questions to help you figure out where you stand.</description>
     </item>
     <item>
       <title>[hugovk.dev] Security: line goes up</title>

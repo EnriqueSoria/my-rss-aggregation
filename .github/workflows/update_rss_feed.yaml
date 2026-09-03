@@ -32,6 +32,7 @@ jobs:
             https://www.better-simple.com/atom.xml
             https://blog.florianherrengt.com/rss.xml
             https://blog.pecar.me/feed.xml
+            https://xendo.bearblog.dev/feed/?type=rss
           output_file: public/rss.xml
           feed_title: "Enrique Soria's Tech Blog Aggregator"
           limit: 30

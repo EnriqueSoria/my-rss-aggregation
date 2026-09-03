@@ -2,7 +2,10 @@ name: Update RSS feed
 
 on:
   schedule:
-    - cron: '0 * * * *'   # every hour
+    - cron: '0 * * * *'  
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:

@@ -37,6 +37,7 @@ jobs:
             https://blog.pecar.me/feed.xml
             https://xendo.bearblog.dev/feed/?type=rss
             https://andros.dev/blog/feed/en/
+            https://blog.danslimmon.com/feed/
           output_file: public/rss.xml
           feed_title: "Enrique Soria's Tech Blog Aggregator"
           limit: 30

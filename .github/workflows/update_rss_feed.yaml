@@ -39,6 +39,7 @@ jobs:
             https://andros.dev/blog/feed/en/
             https://blog.danslimmon.com/feed/
             https://planetscale.com/blog/feed.atom
+            https://paulwrites.software/feed.xml
           output_file: public/rss.xml
           feed_title: "Enrique Soria's Tech Blog Aggregator"
           limit: 30

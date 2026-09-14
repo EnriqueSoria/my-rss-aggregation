@@ -40,6 +40,7 @@ jobs:
             https://blog.danslimmon.com/feed/
             https://planetscale.com/blog/feed.atom
             https://paulwrites.software/feed.xml
+            https://newsletter.getdx.com/feed
           output_file: public/rss.xml
           feed_title: "Enrique Soria's Tech Blog Aggregator"
           limit: 30

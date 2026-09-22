@@ -11,6 +11,12 @@
       <description>Postgres understands high-availability architecture, but its defaults assume you don&#39;t have replication slots. This can get you into trouble in a cutover event. The combination of what Postgres can do and what PlanetScale lets you do is what keeps connected applications safe.</description>
     </item>
     <item>
+      <title>[www.better-simple.com] Book Report: How To Say A Few Words - Effectively</title>
+      <link>https://www.better-simple.com/book-reports/2026/09/21/how-to-say-a-few-words-effectively/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>A review of the book &#34;How To Say A Few Words - Effectively&#34; by David Guy Powers.</description>
+    </item>
+    <item>
       <title>[www.eferro.net] Good talks/podcasts (Sep I)</title>
       <link>https://www.eferro.net/2026/09/good-talkspodcasts-sep-i.html</link>
       <pubDate>Sun, 20 Sep 2026 07:31:23 +0000</pubDate>
@@ -177,12 +183,6 @@
       <link>https://xendo.bearblog.dev/no-ai-fridays/</link>
       <pubDate>Mon, 31 Aug 2026 18:27:00 +0000</pubDate>
       <description>&lt;p&gt;Last Friday I was tired of prompting and started thinking that it would be cool to have Fridays without AI. I bought a domain noaifridays.com and made the case for it. It was not well researched but surpringly reached &lt;a href=&#39;https://news.ycombinator.com/item?id=49498095&#39;&gt;main page of hacker news&lt;/a&gt; and got some &lt;a href=&#39;https://x.com/lazilyevaluated/status/2094071989862375797&#39;&gt;attention on X&lt;/a&gt;. I don&#39;t think in means people are tired of AI, but they are definitely nostalgic for the old days.&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>[planetscale.com] How one connection kills a database</title>
-      <link>https://planetscale.com/blog/debugging-live-database-connections</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Unblock stuck connections with live connection management in the PlanetScale CLI and dashboard</description>
     </item>
   </channel>
 </rss>

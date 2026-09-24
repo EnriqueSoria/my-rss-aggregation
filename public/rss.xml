@@ -11,6 +11,12 @@
       <description>Five durable properties for evaluating the context we hand to AI agents</description>
     </item>
     <item>
+      <title>[www.better-simple.com] Three lessons from my dad</title>
+      <link>https://www.better-simple.com/personal/2026/09/24/three-lessons-from-my-dad/</link>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>I was laughing to myself about how my Dad would tell us boys to &#39;Let them know you&#39;re there!&#39; and it turned into a full post. Thanks for the content Dad!</description>
+    </item>
+    <item>
       <title>[planetscale.com] TIN Postgres search is faster, better, and cheaper</title>
       <link>https://planetscale.com/blog/searching-hn-with-tin</link>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
@@ -41,16 +47,16 @@
       <description>How a full-text search engine works, and how it works in Postgres</description>
     </item>
     <item>
-      <title>[planetscale.com] Blocking cutovers to save replication slots</title>
-      <link>https://planetscale.com/blog/how-to-make-a-replication-slot-survive-a-cutover</link>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Postgres understands high-availability architecture, but its defaults assume you don&#39;t have replication slots. This can get you into trouble in a cutover event. The combination of what Postgres can do and what PlanetScale lets you do is what keeps connected applications safe.</description>
-    </item>
-    <item>
       <title>[www.better-simple.com] Book Report: How To Say A Few Words - Effectively</title>
       <link>https://www.better-simple.com/book-reports/2026/09/21/how-to-say-a-few-words-effectively/</link>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
       <description>A review of the book &#34;How To Say A Few Words - Effectively&#34; by David Guy Powers.</description>
+    </item>
+    <item>
+      <title>[planetscale.com] Blocking cutovers to save replication slots</title>
+      <link>https://planetscale.com/blog/how-to-make-a-replication-slot-survive-a-cutover</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Postgres understands high-availability architecture, but its defaults assume you don&#39;t have replication slots. This can get you into trouble in a cutover event. The combination of what Postgres can do and what PlanetScale lets you do is what keeps connected applications safe.</description>
     </item>
     <item>
       <title>[www.eferro.net] Good talks/podcasts (Sep I)</title>
@@ -177,12 +183,6 @@
       <link>https://xendo.bearblog.dev/the-wait-equation/</link>
       <pubDate>Wed, 02 Sep 2026 15:38:00 +0000</pubDate>
       <description>&lt;p&gt;In space travel, there exists the concept of the Wait Equation [0]. It basically means that if you consider radical propulsion innovations and the resulting speed improvements, it may be better to wait before starting your journey. Excited travelers—early adopters—will lose time flying, while their pragmatic friends will wait on Earth and still arrive at the destination faster.&lt;/p&gt;&#xA;&lt;p&gt;A similar thought experiment is relevant when it comes to adopting AI. Developers who heavily invest in AI too early spend their time working on tools and harnesses. They build complex agent orchestration frameworks whose sole purpose is to work around weaknesses of the current generation of models (I will have another post on how structuring teams of agents after human teams is dumb). They need to tune and tweak their workflows each time a new model is released. They nervously say that &#34;coding is solved,&#34; while at the same time producing enormous and buggy codebases that outrun the models&#39; reasoning capabilities [1]. Other, more pragmatic engineers may still use AI, but only to the extent that allows them to work on their products and features without the agentic mental masturbation. They still read their code, write it in small chunks, and steer the models to build proper, human-compatible abstractions. They learn, they build products, and they focus on customers. They are not rewriting stuff in Rust just because it&#39;s possible. They still benefit from all improvements in LLMs and coding harnesses, but at the same time, the products they build and the experience they gain are what pull them ahead. Unless your work is to build agentic tooling, you shouldn&#39;t.&lt;/p&gt;&#xA;&lt;p&gt;Working in Big Tech, I believe this thought experiment accurately describes what&#39;s happening. Several friends of mine spent all of 2026 working hard on delivering agentic tooling with a half-life of hydrogen-7 while delivering nothing for customers.&lt;/p&gt;&#xA;&lt;p&gt;I wrote before that you shouldn&#39;t be worried about being left behind. Now I&#39;ve changed my mind. You should be worried about being in front. As William Wallace would say: &lt;em&gt;Hold!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;[0] https://en.wikipedia.org/wiki/The_Wait_Equation&lt;/p&gt;&#xA;&lt;p&gt;[1] https://x.com/Steve_Yegge/status/2094947586373505122?s=20&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>[newsletter.getdx.com] The quality paradox of AI-generated code</title>
-      <link>https://newsletter.getdx.com/p/the-quality-paradox-of-ai-generated</link>
-      <pubDate>Wed, 02 Sep 2026 10:03:27 +0000</pubDate>
-      <description>What a five-part definition of quality from 2020 tells us about software development in the age of AI.</description>
     </item>
   </channel>
 </rss>

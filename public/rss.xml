@@ -11,6 +11,12 @@
       <description>Where CAFE(S) fits with your existing measurement and evaluation stack.</description>
     </item>
     <item>
+      <title>[www.better-simple.com] Start thinking about running for the Django Steering Council</title>
+      <link>https://www.better-simple.com/django/2026/09/30/start-thinking-about-running-for-the-steering-council/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Every election cycle, qualified Django community members talk themselves out of running. This post is for you. I want to encourage you to run!</description>
+    </item>
+    <item>
       <title>[xendo.bearblog.dev] The ASCII cheetah interview</title>
       <link>https://xendo.bearblog.dev/cheetah/</link>
       <pubDate>Tue, 29 Sep 2026 20:07:00 +0000</pubDate>
@@ -113,16 +119,16 @@
       <description>Sharded Postgres, from the team behind Vitess</description>
     </item>
     <item>
-      <title>[www.better-simple.com] Share how you use Django with Django Probe</title>
-      <link>https://www.better-simple.com/django/2026/09/17/share-how-you-use-django-with-django-probe/</link>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Django Probe is a low effort, high impact way to support the community. By sharing how you use Django, the community can make better decisions.</description>
-    </item>
-    <item>
       <title>[planetscale.com] Introducing Lead: TIN-compatible full-text search for CI</title>
       <link>https://planetscale.com/blog/introducing-lead</link>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
       <description>Lead is a feature-equivalent version of TIN you can run in CI</description>
+    </item>
+    <item>
+      <title>[www.better-simple.com] Share how you use Django with Django Probe</title>
+      <link>https://www.better-simple.com/django/2026/09/17/share-how-you-use-django-with-django-probe/</link>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Django Probe is a low effort, high impact way to support the community. By sharing how you use Django, the community can make better decisions.</description>
     </item>
     <item>
       <title>[newsletter.getdx.com] Your agent doesn&#39;t have a model problem</title>
@@ -177,12 +183,6 @@
       <link>https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query</link>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <description>Follow a SQL query through the router, across four Postgres shards, and back.</description>
-    </item>
-    <item>
-      <title>[newsletter.getdx.com] AI accelerates output, not innovation</title>
-      <link>https://newsletter.getdx.com/p/ai-accelerates-output-not-innovation</link>
-      <pubDate>Wed, 09 Sep 2026 10:03:41 +0000</pubDate>
-      <description>AI output explains 63% of developer time savings but shows a weak link to increased innovation ratio.</description>
     </item>
   </channel>
 </rss>

@@ -42,6 +42,7 @@ jobs:
             https://paulwrites.software/feed.xml
             https://newsletter.getdx.com/feed
             https://newsletter.pragmaticengineer.com/feed?sectionId=132248
+            https://adamj.eu/tech/atom.xml
           output_file: public/rss.xml
           feed_title: "Enrique Soria's Tech Blog Aggregator"
           limit: 30

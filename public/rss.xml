@@ -17,6 +17,12 @@
       <description>Paulblish turns mermaid code blocks into diagrams, and until now it used mermaid.js to do it. It worked, but the diagrams always looked a bit off next to the rest of my site, and on a phone anything…</description>
     </item>
     <item>
+      <title>[planetscale.com] I don&#39;t trust ON DELETE CASCADE</title>
+      <link>https://planetscale.com/blog/i-dont-like-delete-cascade</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>A one-line convenience in your database schema can become an outage. There are better ways to delete data that won&#39;t risk locking up your database.</description>
+    </item>
+    <item>
       <title>[pycoders.com] Issue #757: Django Migrations, Functional Programming, MVC, and More (2026-10-20)</title>
       <link>https://pycoders.com/issues/757</link>
       <pubDate>Tue, 20 Oct 2026 19:30:00 +0000</pubDate>
@@ -107,16 +113,16 @@
       <description>How to handle uncertainty with AI vendors and disaster recovery (DR) approaches to consider. An excerpt from the book Building Resilient Distributed Systems by Sam Newman</description>
     </item>
     <item>
-      <title>[paulwrites.software] Markdown files that execute</title>
-      <link>https://paulwrites.software/articles/paulrun/</link>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <description>I keep forgetting how to release my own software. My major project Clientele has a PUBLISHING.md file with every step written down, but I release so rarely that I end up with the file open in one…</description>
-    </item>
-    <item>
       <title>[planetscale.com] PlanetScale is now available on Azure</title>
       <link>https://planetscale.com/blog/planetscale-is-now-on-azure</link>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <description>PlanetScale Postgres and Neki databases can now be deployed on Microsoft Azure</description>
+    </item>
+    <item>
+      <title>[paulwrites.software] Markdown files that execute</title>
+      <link>https://paulwrites.software/articles/paulrun/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <description>I keep forgetting how to release my own software. My major project Clientele has a PUBLISHING.md file with every step written down, but I release so rarely that I end up with the file open in one…</description>
     </item>
     <item>
       <title>[lukeplant.me.uk] Git is still awful</title>
@@ -177,12 +183,6 @@
       <link>https://planetscale.com/blog/introducing-postgres-dedicated-read-replicas</link>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <description>Use dedicated read replicas to isolate read-only workloads and distribute your data across data centers around the world.</description>
-    </item>
-    <item>
-      <title>[adamj.eu] Zsh: set aside a command with “Escape Q” / push-line</title>
-      <link>https://adamj.eu/tech/2026/10/06/zsh-push-line/</link>
-      <pubDate>Mon, 05 Oct 2026 23:00:00 +0000</pubDate>
-      <description>&lt;p&gt;Do you ever do this?&#xA;You carefully type out a command, like this pytest one:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;gp&#34;&gt;$ &lt;/span&gt;pytest&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;tests/test_checkout.py&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;-k&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;discount&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;--reuse-db&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;-x&#xA;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;p&gt;…then, just before pressing &lt;kbd class=&#34;kbd&#34;&gt;Enter&lt;/kbd&gt;, you remember that something will stop it from succeeding, like being on the wrong Git branch.&lt;/p&gt;&#xA;&lt;p&gt;What now?&lt;/p&gt;&#xA;&lt;p&gt;Maybe you run the …&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

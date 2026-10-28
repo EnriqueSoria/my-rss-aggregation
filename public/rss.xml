@@ -17,6 +17,12 @@
       <description>Part I: The Coding War Games, a study behind the 10x developer myth.</description>
     </item>
     <item>
+      <title>[www.better-simple.com] Looking for a job? Start a blog.</title>
+      <link>https://www.better-simple.com/career/2026/10/28/looking-for-a-job-start-a-blog/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>It&#39;s the return of the blog! If jub hunting, writing may be your best way to stand out.</description>
+    </item>
+    <item>
       <title>[pycoders.com] Issue #758: Security, Optimization, itertools, and More (2026-10-27)</title>
       <link>https://pycoders.com/issues/758</link>
       <pubDate>Tue, 27 Oct 2026 19:30:00 +0000</pubDate>
@@ -65,16 +71,16 @@
       <description>Is AI just making developers faster, or is it opening up entirely new possibilities?</description>
     </item>
     <item>
-      <title>[paulwrites.software] My diagrams are nicer now thanks to Pele</title>
-      <link>https://paulwrites.software/articles/pele/</link>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Paulblish turns mermaid code blocks into diagrams, and until now it used mermaid.js to do it. It worked, but the diagrams always looked a bit off next to the rest of my site, and on a phone anything…</description>
-    </item>
-    <item>
       <title>[planetscale.com] I don&#39;t trust ON DELETE CASCADE</title>
       <link>https://planetscale.com/blog/i-dont-like-delete-cascade</link>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <description>A one-line convenience in your database schema can become an outage. There are better ways to delete data that won&#39;t risk locking up your database.</description>
+    </item>
+    <item>
+      <title>[paulwrites.software] My diagrams are nicer now thanks to Pele</title>
+      <link>https://paulwrites.software/articles/pele/</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Paulblish turns mermaid code blocks into diagrams, and until now it used mermaid.js to do it. It worked, but the diagrams always looked a bit off next to the rest of my site, and on a phone anything…</description>
     </item>
     <item>
       <title>[pycoders.com] Issue #757: Django Migrations, Functional Programming, MVC, and More (2026-10-20)</title>
@@ -177,12 +183,6 @@
       <link>https://paulwrites.software/articles/paulrun/</link>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <description>I keep forgetting how to release my own software. My major project Clientele has a PUBLISHING.md file with every step written down, but I release so rarely that I end up with the file open in one…</description>
-    </item>
-    <item>
-      <title>[lukeplant.me.uk] Git is still awful</title>
-      <link>https://lukeplant.me.uk/blog/posts/git-is-still-awful/</link>
-      <pubDate>Mon, 12 Oct 2026 19:42:39 +0000</pubDate>
-      <description>&lt;p&gt;In which I complain about the amount of time I spend apologising to my team about git.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -20,7 +20,13 @@
       <title>[www.better-simple.com] Looking for a job? Start a blog.</title>
       <link>https://www.better-simple.com/career/2026/10/28/looking-for-a-job-start-a-blog/</link>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>It&#39;s the return of the blog! If jub hunting, writing may be your best way to stand out.</description>
+      <description>It&#39;s the return of the blog! If job hunting, writing may be your best way to stand out.</description>
+    </item>
+    <item>
+      <title>[adamj.eu] Zsh: parse command-line options with zparseopts</title>
+      <link>https://adamj.eu/tech/2026/10/28/zsh-zparseopts/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Sometimes you want your shell scripts to take options, like &lt;code class=&#34;docutils literal&#34;&gt;&lt;span class=&#34;pre&#34;&gt;--verbose&lt;/span&gt;&lt;/code&gt; or &lt;code class=&#34;docutils literal&#34;&gt;&lt;span class=&#34;pre&#34;&gt;--help&lt;/span&gt;&lt;/code&gt;, along with any positional arguments.&#xA;Handling options is fiddly to do by hand, with the traditional portable approach being a large block of code using a &lt;code class=&#34;docutils literal&#34;&gt;while&lt;/code&gt; loop, a &lt;code class=&#34;docutils literal&#34;&gt;case&lt;/code&gt; statement, and some &lt;code class=&#34;docutils literal&#34;&gt;shift&lt;/code&gt;s.&#xA;Bash has …&lt;/p&gt;</description>
     </item>
     <item>
       <title>[pycoders.com] Issue #758: Security, Optimization, itertools, and More (2026-10-27)</title>
@@ -71,16 +77,16 @@
       <description>Is AI just making developers faster, or is it opening up entirely new possibilities?</description>
     </item>
     <item>
-      <title>[planetscale.com] I don&#39;t trust ON DELETE CASCADE</title>
-      <link>https://planetscale.com/blog/i-dont-like-delete-cascade</link>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>A one-line convenience in your database schema can become an outage. There are better ways to delete data that won&#39;t risk locking up your database.</description>
-    </item>
-    <item>
       <title>[paulwrites.software] My diagrams are nicer now thanks to Pele</title>
       <link>https://paulwrites.software/articles/pele/</link>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <description>Paulblish turns mermaid code blocks into diagrams, and until now it used mermaid.js to do it. It worked, but the diagrams always looked a bit off next to the rest of my site, and on a phone anything…</description>
+    </item>
+    <item>
+      <title>[planetscale.com] I don&#39;t trust ON DELETE CASCADE</title>
+      <link>https://planetscale.com/blog/i-dont-like-delete-cascade</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>A one-line convenience in your database schema can become an outage. There are better ways to delete data that won&#39;t risk locking up your database.</description>
     </item>
     <item>
       <title>[pycoders.com] Issue #757: Django Migrations, Functional Programming, MVC, and More (2026-10-20)</title>
@@ -171,12 +177,6 @@
       <link>https://newsletter.pragmaticengineer.com/p/building-resilient-systems</link>
       <pubDate>Tue, 13 Oct 2026 16:03:33 +0000</pubDate>
       <description>How to handle uncertainty with AI vendors and disaster recovery (DR) approaches to consider. An excerpt from the book Building Resilient Distributed Systems by Sam Newman</description>
-    </item>
-    <item>
-      <title>[planetscale.com] PlanetScale is now available on Azure</title>
-      <link>https://planetscale.com/blog/planetscale-is-now-on-azure</link>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <description>PlanetScale Postgres and Neki databases can now be deployed on Microsoft Azure</description>
     </item>
     <item>
       <title>[paulwrites.software] Markdown files that execute</title>

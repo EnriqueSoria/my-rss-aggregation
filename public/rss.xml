@@ -68,7 +68,7 @@
       <title>[johnnymetz.com] Stop Django Bulk Operations From Silently Skipping Signals</title>
       <link>https://johnnymetz.com/posts/django-bulk-operations-skip-signals/</link>
       <pubDate>Tue, 27 Oct 2026 19:00:00 +0000</pubDate>
-      <description>&lt;p&gt;Django&amp;rsquo;s &lt;code&gt;bulk_create()&lt;/code&gt;, &lt;code&gt;bulk_update()&lt;/code&gt;, and &lt;code&gt;update()&lt;/code&gt; are fast because they skip &lt;code&gt;save()&lt;/code&gt;. That also means they skip the &lt;code&gt;pre_save&lt;/code&gt; and &lt;code&gt;post_save&lt;/code&gt; signals, so your receivers never fire. It&amp;rsquo;s documented for &lt;a href=&#34;https://docs.djangoproject.com/en/6.1/ref/models/querysets/#bulk-create&#34;&gt;&lt;code&gt;bulk_create()&lt;/code&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.djangoproject.com/en/6.1/ref/models/querysets/#bulk-update&#34;&gt;&lt;code&gt;bulk_update()&lt;/code&gt;&lt;/a&gt;, and &lt;a href=&#34;https://docs.djangoproject.com/en/6.1/ref/models/querysets/#update&#34;&gt;&lt;code&gt;update()&lt;/code&gt;&lt;/a&gt;, but nothing warns you at runtime. If a signal invalidates a cache, writes an audit log, or syncs a search index, one bulk call quietly skips that critical work. This post shows how to make those calls fail loudly instead.&lt;/p&gt;</description>
+      <description>Django&amp;rsquo;s bulk_create(), bulk_update(), and update() silently skip save signals. Make them fail loudly with a custom QuerySet and an explicit opt-out.</description>
     </item>
     <item>
       <title>[newsletter.pragmaticengineer.com] AI SRE: what is it, how could it change on-call – and does it work?</title>

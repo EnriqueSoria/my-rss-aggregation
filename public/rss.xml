@@ -83,6 +83,12 @@
       <description>Andrew Swerdlow shares how Roblox is building trust in AI agents to autonomously review, test, and deploy code and what that means for engineers.</description>
     </item>
     <item>
+      <title>[www.caktusgroup.com] How Caktus Runs and Uses Local Models</title>
+      <link>https://www.caktusgroup.com/blog/2026/10/30/how-caktus-runs-and-uses-local-models/</link>
+      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
+      <description>&lt;p&gt;As a research project this year at Caktus, we&amp;rsquo;ve been experimenting with serving open-weight language models on our own hardware. In this post, we&amp;rsquo;ll walk through the hardware, the Docker Compose stack that serves our models, the Gemma and Qwen configurations we tested, our benchmarks, and the configurations we use in &lt;a href=&#34;https://pi.dev&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;pi.dev&lt;/a&gt; and &lt;a href=&#34;https://code.visualstudio.com/docs/agent-customization/language-models&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;VS Code&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>[andros.dev] I built a forum with no interface, no passwords, made for the terminal</title>
       <link>http://andros.dev/blog/b5c8c6aa/i-built-a-forum-with-no-interface-no-passwords-made-for-the-terminal/</link>
       <pubDate>Fri, 30 Oct 2026 11:26:35 +0000</pubDate>
@@ -161,26 +167,20 @@
       <description>Postgres is the most popular database choice among developers. Postgres is the default choice for agents, powering countless applications where those new to app building don&#39;t even know what a database is. Every major cloud offers hosted Postgres.</description>
     </item>
     <item>
-      <title>[paulwrites.software] My tools have proper widgets now</title>
-      <link>https://paulwrites.software/articles/tool-widgets/</link>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Paulblish has let me write little web tools straight into markdown for a while: you can put some HTML and JavaScript in an html embed code block and it turns it into real html/js on the page. That&#39;s…</description>
-    </item>
-    <item>
       <title>[www.better-simple.com] Why use open source at all with AI?</title>
       <link>https://www.better-simple.com/open-source/2026/10/26/why-use-open-source-with-ai/</link>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <description>I&#39;ve been anxiously asking myself a question lately. Why use open source at all with AI? You can generate your own &#34;good enough&#34; solutions pretty quickly.</description>
     </item>
     <item>
-      <title>[samwho.dev] Big O</title>
-      <link>https://samwho.dev/big-o/</link>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This post&#xA;  includes custom components&#xA;      that&#xA;      need to be viewed on my website. Sorry, I know it&#39;s not ideal.</description>
+      <title>[paulwrites.software] My tools have proper widgets now</title>
+      <link>https://paulwrites.software/articles/tool-widgets/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Paulblish has let me write little web tools straight into markdown for a while: you can put some HTML and JavaScript in an html embed code block and it turns it into real html/js on the page. That&#39;s…</description>
     </item>
     <item>
-      <title>[samwho.dev] Reservoir Sampling</title>
-      <link>https://samwho.dev/reservoir-sampling/</link>
+      <title>[samwho.dev] Bloom Filters</title>
+      <link>https://samwho.dev/bloom-filters/</link>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
       <description>This post&#xA;  includes custom components&#xA;      that&#xA;      need to be viewed on my website. Sorry, I know it&#39;s not ideal.</description>
     </item>

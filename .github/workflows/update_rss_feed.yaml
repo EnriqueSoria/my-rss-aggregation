@@ -45,6 +45,7 @@ jobs:
             https://adamj.eu/tech/atom.xml
             https://johnnymetz.com/index.xml
             https://samwho.dev/rss.xml
+            https://www.caktusgroup.com/index.xml
           output_file: public/rss.xml
           feed_title: "Enrique Soria's Tech Blog Aggregator"
           limit: 30

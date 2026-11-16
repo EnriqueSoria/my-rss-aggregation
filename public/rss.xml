@@ -11,6 +11,12 @@
       <description>Jensen Huang: ¿héroe o villano?</description>
     </item>
     <item>
+      <title>[paulwrites.software] I&#39;m making a game!</title>
+      <link>https://paulwrites.software/articles/gamedev/</link>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>I have played video games my whole life. Some of my fondest memories are from the virtual places in the games I love to play, like: Balamb garden in Final Fantasy VIII Vagrant Story and its awesome…</description>
+    </item>
+    <item>
       <title>[newsletter.getdx.com] Inside the DevEx Metrics Compass with André Meyer</title>
       <link>https://newsletter.getdx.com/p/inside-the-devex-metrics-compass</link>
       <pubDate>Thu, 12 Nov 2026 16:49:03 +0000</pubDate>
@@ -71,16 +77,16 @@
       <description>Expectación frente a la inminente salida a bolsa de Anthropic, ParticleDB duda si 4 = 5, Lovable deja tus datos al descubierto, Elon Musk se pone morado a ketamina, y Sam Altman cambia de nombre</description>
     </item>
     <item>
-      <title>[paulwrites.software] My Terminal demos are real now</title>
-      <link>https://paulwrites.software/articles/zoetty/</link>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description>My terminal demos are real now I build a lot of terminal tools. I have paulrun to execute my runbooks, clientele to generate API clients, and there&#39;s a long tail of little CLI things that I have made…</description>
-    </item>
-    <item>
       <title>[planetscale.com] Designing a reliable unplanned failover</title>
       <link>https://planetscale.com/blog/designing-a-reliable-unplanned-failover</link>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <description>How Neki detects a failed Postgres primary, and chooses a new one from the WAL that survived.</description>
+    </item>
+    <item>
+      <title>[paulwrites.software] My Terminal demos are real now</title>
+      <link>https://paulwrites.software/articles/zoetty/</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>My terminal demos are real now I build a lot of terminal tools. I have paulrun to execute my runbooks, clientele to generate API clients, and there&#39;s a long tail of little CLI things that I have made…</description>
     </item>
     <item>
       <title>[newsletter.getdx.com] Why DORA wasn’t enough, and what came next</title>
@@ -177,12 +183,6 @@
       <link>https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption</link>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description>How Neki uses preflight checks, query buffering, synchronous replication, and fast rollback to make Postgres primary switchovers less disruptive.</description>
-    </item>
-    <item>
-      <title>[adamj.eu] Zsh: uncover hidden files in globs with (D)</title>
-      <link>https://adamj.eu/tech/2026/10/29/zsh-d-glob-qualifier/</link>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>&lt;p&gt;By default, Zsh globs skip hidden files and directories, meaning those with names starting with a dot.&#xA;For example, in a project directory, &lt;code class=&#34;docutils literal&#34;&gt;*&lt;/code&gt; misses all the configuration files and directories:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;gp&#34;&gt;$ &lt;/span&gt;ls&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;-d&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;*&#xA;&lt;span class=&#34;go&#34;&gt;README.rst  generate_pigeon.py&lt;/span&gt;&#xA;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;p&gt;To include them, add the &lt;code class=&#34;docutils literal&#34;&gt;(D)&lt;/code&gt; &lt;a class=&#34;reference external&#34; href=&#34;https://zsh.sourceforge.io/Doc/Release/Expansion.html#Glob-Qualifiers&#34;&gt;glob qualifier&lt;/a&gt;, which stands for “dot files”:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;gp&#34;&gt;$ &lt;/span&gt;ls …&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

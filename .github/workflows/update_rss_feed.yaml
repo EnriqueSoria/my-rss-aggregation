@@ -47,6 +47,8 @@ jobs:
             https://samwho.dev/rss.xml
             https://www.caktusgroup.com/index.xml
             https://tu-atencion-es-todo-lo-que-necesitamos.offprint.app/feed
+            https://simonwillison.net/atom/everything/
+            https://til.simonwillison.net/tils/feed.atom
           output_file: public/rss.xml
           feed_title: "Enrique Soria's Tech Blog Aggregator"
           limit: 30

@@ -17,6 +17,18 @@
       <description>Application-level sharding feels like the right solution. But it isn&#39;t your core business, and it causes more headaches than you think.</description>
     </item>
     <item>
+      <title>[www.better-simple.com] Mentorship graduations and a lot of gratitude</title>
+      <link>https://www.better-simple.com/personal/2026/11/23/thankful-on-thanksgiving/</link>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Thanksgiving in the US is a time of reflection. With three clients graduating, there&#39;s a cornucopia of appreciation.</description>
+    </item>
+    <item>
+      <title>[adamj.eu] Django-related Deals for Black Friday 2026</title>
+      <link>https://adamj.eu/tech/2026/11/23/django-black-friday-deals-2026/</link>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;!-- screenshot command: --&gt;&#xA;&lt;!-- uvx shot-scraper - -width 1280 - -height 720 - -quality 70 - -retina - -wait 1000 https://adamchainz.gumroad.com/ -o static/tech/assets/2026-11-23-screenshot-adamchainz-gumroad.webp --&gt;&#xA;&lt;p&gt;Here are some Django-related deals for this year’s Black Friday (27th November) and Cyber Monday (30th November), including my own.&lt;/p&gt;&#xA;&lt;p&gt;I’ll keep this post up to date with any new deals I learn about.&#xA;If you are also a creator, email me with details of your offer and …&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>[andros.dev] A Gopher server in 9 lines of Python</title>
       <link>http://andros.dev/blog/cf3110ec/a-gopher-server-in-9-lines-of-python/</link>
       <pubDate>Thu, 19 Nov 2026 14:21:32 +0000</pubDate>
@@ -137,16 +149,16 @@
       <description>Expectación frente a la inminente salida a bolsa de Anthropic, ParticleDB duda si 4 = 5, Lovable deja tus datos al descubierto, Elon Musk se pone morado a ketamina, y Sam Altman cambia de nombre</description>
     </item>
     <item>
-      <title>[planetscale.com] Designing a reliable unplanned failover</title>
-      <link>https://planetscale.com/blog/designing-a-reliable-unplanned-failover</link>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description>How Neki detects a failed Postgres primary, and chooses a new one from the WAL that survived.</description>
-    </item>
-    <item>
       <title>[paulwrites.software] My Terminal demos are real now</title>
       <link>https://paulwrites.software/articles/zoetty/</link>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <description>My terminal demos are real now I build a lot of terminal tools. I have paulrun to execute my runbooks, clientele to generate API clients, and there&#39;s a long tail of little CLI things that I have made…</description>
+    </item>
+    <item>
+      <title>[planetscale.com] Designing a reliable unplanned failover</title>
+      <link>https://planetscale.com/blog/designing-a-reliable-unplanned-failover</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>How Neki detects a failed Postgres primary, and chooses a new one from the WAL that survived.</description>
     </item>
     <item>
       <title>[newsletter.getdx.com] Why DORA wasn’t enough, and what came next</title>
@@ -171,18 +183,6 @@
       <link>https://johnnymetz.com/posts/caching-at-scale-in-django/</link>
       <pubDate>Tue, 03 Nov 2026 17:00:00 +0000</pubDate>
       <description>What we learned caching a busy Django API in Redis: cache shared data once, pair long TTLs with invalidation you can trust, and fail open when Redis fails.</description>
-    </item>
-    <item>
-      <title>[newsletter.pragmaticengineer.com] How software engineering is changing: a tale of two eras</title>
-      <link>https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing</link>
-      <pubDate>Tue, 03 Nov 2026 16:58:22 +0000</pubDate>
-      <description>We invited readers to write about how building software changed, in an essay challenge. Many of you took part, and today we&amp;#8217;re sharing the winning piece from a strong set of entries</description>
-    </item>
-    <item>
-      <title>[planetscale.com] The hidden latency inside your database</title>
-      <link>https://planetscale.com/blog/the-hidden-latency-inside-your-database</link>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Network-attached storage is a fine choice and a bad default.</description>
     </item>
   </channel>
 </rss>
